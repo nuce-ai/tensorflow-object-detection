@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>daisy</folder>
+	<filename>5673728_71b8cb57eb.jpg</filename>
+	<path>E:\nuce-ai\Tensorflow\workspace\training\images\test\daisy\5673728_71b8cb57eb.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>332</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>daisy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>5</ymin>
+			<xmax>472</xmax>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+</annotation>

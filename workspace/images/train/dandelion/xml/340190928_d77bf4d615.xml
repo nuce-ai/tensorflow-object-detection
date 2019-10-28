@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dandelion</folder>
+	<filename>340190928_d77bf4d615.jpg</filename>
+	<path>E:\nuce-ai\Tensorflow\workspace\training\images\train\dandelion\340190928_d77bf4d615.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dandelion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>35</ymin>
+			<xmax>419</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>

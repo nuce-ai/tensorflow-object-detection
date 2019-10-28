@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>rose</folder>
+	<filename>2325232198_751645d0bb_n.jpg</filename>
+	<path>E:\nuce-ai\Tensorflow\workspace\training\images\test\rose\2325232198_751645d0bb_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>49</ymin>
+			<xmax>290</xmax>
+			<ymax>209</ymax>
+		</bndbox>
+	</object>
+</annotation>
