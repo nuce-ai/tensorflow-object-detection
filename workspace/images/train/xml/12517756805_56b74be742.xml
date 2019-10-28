@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tulip</folder>
+	<filename>12517756805_56b74be742.jpg</filename>
+	<path>E:\Dowload\image\flowers-recognition\flowers\tulip\12517756805_56b74be742.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tulip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>137</xmin>
+			<ymin>53</ymin>
+			<xmax>340</xmax>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+</annotation>

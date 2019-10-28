@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dandelion</folder>
+	<filename>10683189_bd6e371b97.jpg</filename>
+	<path>E:\Dowload\image\flowers-recognition\flowers\dandelion\10683189_bd6e371b97.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dandelion</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>16</ymin>
+			<xmax>427</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>

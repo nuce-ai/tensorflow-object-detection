@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rose</folder>
+	<filename>13979889721_42a59ca9fa_m.jpg</filename>
+	<path>E:\Dowload\image\flowers-recognition\flowers\rose\13979889721_42a59ca9fa_m.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>199</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>49</ymin>
+			<xmax>181</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>

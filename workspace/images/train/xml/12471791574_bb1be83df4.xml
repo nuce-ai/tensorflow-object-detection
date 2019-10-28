@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sunflower</folder>
+	<filename>12471791574_bb1be83df4.jpg</filename>
+	<path>E:\Dowload\image\flowers-recognition\flowers\sunflower\12471791574_bb1be83df4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>335</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sunflower</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>3</ymin>
+			<xmax>447</xmax>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+</annotation>

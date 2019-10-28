@@ -1,0 +1,26 @@
+<annotation>
+	<folder>daisy</folder>
+	<filename>11124324295_503f3a0804.jpg</filename>
+	<path>E:\Dowload\image\flowers-recognition\flowers\daisy\11124324295_503f3a0804.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>309</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>daisy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>40</ymin>
+			<xmax>248</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>
